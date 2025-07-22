@@ -1,0 +1,57 @@
+{
+  "groups": [
+    {
+      "users": [
+        {
+          "name": "dak_admin",
+          "capacity": "admin"
+        },
+        {
+          "name": "dak_editor",
+          "capacity": "member"
+        }
+      ],
+      "display_name": "Indicators",
+      "description": "Datasets detailing key indicators being monitored by WHO AFRO.",
+      "image_url": "https://static.vecteezy.com/system/resources/previews/011/480/824/non_2x/refugee-icon-design-free-vector.jpg",
+      "name": "indicators",
+      "state": "active",
+      "title": "Indicators"
+    },
+    {
+      "users": [
+        {
+          "name": "dak_admin",
+          "capacity": "admin"
+        },
+        {
+          "name": "dak_editor",
+          "capacity": "member"
+        }
+      ],
+      "display_name": "Data Sources",
+      "description": "Raw data pulled into the hub from third party sources. ",
+      "image_url": "https://static.vecteezy.com/system/resources/previews/005/720/392/non_2x/parents-and-a-kid-icon-family-illustration-isolated-on-white-background-free-vector.jpg",
+      "name": "sources",
+      "state": "active",
+      "title": "Data Sources"
+    },{
+      "users": [
+        {
+          "name": "dak_admin",
+          "capacity": "admin"
+        },
+        {
+          "name": "dak_editor",
+          "capacity": "member"
+        }
+      ],
+      "display_name": "Publications",
+      "description": "Publications, research and documentation drawn from WHO AFRO's data assets.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Stars_of_the_European_Union_%28bw%29.svg/1200px-Stars_of_the_European_Union_%28bw%29.svg.png",
+      "name": "publications",
+      "state": "active",
+      "title": "Publications"
+    }
+  ]
+}

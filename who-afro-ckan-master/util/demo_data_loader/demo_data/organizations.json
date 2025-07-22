@@ -1,0 +1,134 @@
+{
+  "organizations": [
+    {
+      "display_name": "Fjelltopp",
+      "description": "Fjelltopp",
+      "image_url": "https://cdn.who.int/media/images/default-source/infographics/who-emblem.png?sfvrsn=877bb56a_2",
+      "name": "fjelltopp",
+      "state": "active",
+      "title": "Fjelltopp",
+      "users": [
+        {
+          "name": "fjelltopp-chas-nelson",
+          "capacity": "admin"
+        },
+        {
+          "name": "fjelltopp_editor",
+          "capacity": "editor"
+        },
+        {
+          "name": "fjelltopp_member",
+          "capacity": "member"
+        }
+      ]
+    },
+    {
+      "display_name": "WHO AFRO",
+      "description": "WHO African Regional Office (AFRO)",
+      "image_url": "https://cdn.who.int/media/images/default-source/infographics/who-emblem.png?sfvrsn=877bb56a_2",
+      "name": "who-afro",
+      "state": "active",
+      "title": "WHO AFRO",
+      "users": [
+        {
+          "name": "who_afro_admin",
+          "capacity": "admin"
+        },
+        {
+          "name": "who_afro_editor",
+          "capacity": "editor"
+        },
+        {
+          "name": "who_afro_member",
+          "capacity": "member"
+        }
+      ]
+    },
+    {
+      "display_name": "WHO AFRO DAK",
+      "description": "WHO AFRO Data & Knowledge Management (DAK) Unit",
+      "image_url": "https://cdn.who.int/media/images/default-source/infographics/who-emblem.png?sfvrsn=877bb56a_2",
+      "name": "who-afro-dak",
+      "state": "active",
+      "title": "WHO AFRO DAK",
+      "users": [
+        {
+          "name": "dak_admin",
+          "capacity": "admin"
+        },
+        {
+          "name": "dak_editor",
+          "capacity": "editor"
+        },
+        {
+          "name": "dak_member",
+          "capacity": "member"
+        }
+      ]
+    },
+    {
+      "display_name": "WHO AFRO Malaria Programme",
+      "description": "WHO AFRO Malaria Programme",
+      "image_url": "https://cdn.who.int/media/images/default-source/infographics/who-emblem.png?sfvrsn=877bb56a_2",
+      "name": "who-afro-malaria",
+      "state": "active",
+      "title": "WHO Malaria Programme",
+      "users": [
+        {
+          "name": "malaria_admin",
+          "capacity": "admin"
+        }
+      ]
+    },
+    {
+      "display_name": "WHO AFRO UCN Cluster",
+      "description": "WHO AFRO UCN Cluster",
+      "image_url": "https://cdn.who.int/media/images/default-source/infographics/who-emblem.png?sfvrsn=877bb56a_2",
+      "name": "who-afro-ucn",
+      "state": "active",
+      "title": "WHO AFRO UCN Cluster",
+      "users": [
+        {
+          "name": "ucn_admin",
+          "capacity": "admin"
+        }
+      ]
+    },
+    {
+      "display_name": "WHO AFRO VPD Programme",
+      "description": "WHO AFRO Vaccine Preventable Diseases (VPD) Cluster",
+      "image_url": "https://cdn.who.int/media/images/default-source/infographics/who-emblem.png?sfvrsn=877bb56a_2",
+      "name": "who-afro-vpd",
+      "state": "active",
+      "title": "WHO AFRO VPD Cluster",
+      "users": [
+        {
+          "name": "vpd_admin",
+          "capacity": "admin"
+        }
+      ]
+    },
+    {
+      "display_name": "WHO Republic of Congo",
+      "description": "WHO Republic of Congo Country Office",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt5-QnH59Y37pJNzOP1u9wq9waw4WwKqm1NZ-Cy-1XMg&s",
+      "name": "who-congo",
+      "state": "active",
+      "title": "WHO Republic of Congo",
+      "users": [
+        {
+          "name": "cg_admin",
+          "capacity": "admin"
+        },
+        {
+          "name": "cg_editor",
+          "capacity": "editor"
+        },
+        {
+          "name": "cg_member",
+          "capacity": "member"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2326 @@
+{
+  "datasets": [
+    {
+      "name": "wmr2023-ao",
+      "title": "World Malaria Report 2023 - Angola",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Angola, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "AO",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_AO_Angola.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-bf",
+      "title": "World Malaria Report 2023 - Burkina Faso",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Burkina Faso, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "BF",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_BF_BurkinaFaso.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-bi",
+      "title": "World Malaria Report 2023 - Burundi",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Burundi, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "BI",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_BI_Burundi.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-bj",
+      "title": "World Malaria Report 2023 - Benin",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Benin, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "BJ",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_BJ_Benin.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-bw",
+      "title": "World Malaria Report 2023 - Botswana",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Botswana, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "BW",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_BW_Botswana.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-cd",
+      "title": "World Malaria Report 2023 - Democratic Republic of the Congo",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Democratic Republic of the Congo, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "CD",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_CD_DemocraticRepublicOfTheCongo.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-ca",
+      "title": "World Malaria Report 2023 - Central African Republic",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Central African Republic, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "CF",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_CF_CentralAfricanRepublic.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-cg",
+      "title": "World Malaria Report 2023 - Congo",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Congo, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "CG",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_CG_Congo.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-ci",
+      "title": "World Malaria Report 2023 - Cote d'Ivoire",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Cote d'Ivoire, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "CI",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_CI_CotedIvoire.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-cm",
+      "title": "World Malaria Report 2023 - Cameroon",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Cameroon, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "CM",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_CM_Cameroon.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-cv",
+      "title": "World Malaria Report 2023 - Cabo Verde",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Cabo Verde, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "CV",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_CV_CaboVerde.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-er",
+      "title": "World Malaria Report 2023 - Eritrea",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Eritrea, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "ER",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_ER_Eritrea.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-et",
+      "title": "World Malaria Report 2023 - Ethiopia",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Ethiopia, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "ET",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_ET_Ethiopia.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-ga",
+      "title": "World Malaria Report 2023 - Gabon",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Gabon, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "GA",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_GA_Gabon.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-gh",
+      "title": "World Malaria Report 2023 - Ghana",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Ghana, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "GH",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_GH_Ghana.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-gm",
+      "title": "World Malaria Report 2023 - Gambia",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Gambia, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "GM",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_GM_Gambia.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-gn",
+      "title": "World Malaria Report 2023 - Guinea",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Guinea, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "GN",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_GN_Guinea.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-ke",
+      "title": "World Malaria Report 2023 - Kenya",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Kenya, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "KE",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_KE_Kenya.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-km",
+      "title": "World Malaria Report 2023 - Comoros",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Comoros, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "KM",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_KM_Comoros.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-mg",
+      "title": "World Malaria Report 2023 - Madagascar",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Madagascar, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "MG",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_MG_Madagascar.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-ml",
+      "title": "World Malaria Report 2023 - Mali",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Mali, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "ML",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_ML_Mali.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-mr",
+      "title": "World Malaria Report 2023 - Mauritania",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Mauritania, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "MR",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_MRT_Mauritania.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-mw",
+      "title": "World Malaria Report 2023 - Malawi",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Malawi, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "MW",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_MW_Malawi.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-mz",
+      "title": "World Malaria Report 2023 - Mozambique",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Mozambique, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "MZ",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_MZ_Mozambique.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-na",
+      "title": "World Malaria Report 2023 - Namibia",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Namibia, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "NA",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_NA_Namibia.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-ne",
+      "title": "World Malaria Report 2023 - Niger",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Niger, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "NE",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_NE_Niger.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-ng",
+      "title": "World Malaria Report 2023 - Nigeria",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Nigeria, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "NG",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_NG_Nigeria.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-rw",
+      "title": "World Malaria Report 2023 - Rwanda",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Rwanda, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "RW",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_RW_Rwanda.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-sl",
+      "title": "World Malaria Report 2023 - Sierra Leone",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Sierra Leone, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "SL",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_SL_SierraLeone.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-sn",
+      "title": "World Malaria Report 2023 - Senegal",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Senegal, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "SN",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_SN_Senegal.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-st",
+      "title": "World Malaria Report 2023 - Sao Tome and Principe",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Sao Tome and Principe, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "ST",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_ST_SaoTomeAndPrincipe.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-sz",
+      "title": "World Malaria Report 2023 - Eswatini",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Eswatini, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "SZ",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_SZ_Eswatini.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-td",
+      "title": "World Malaria Report 2023 - Chad",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Chad, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "TD",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_TD_Chad.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-tz-mainland",
+      "title": "World Malaria Report 2023 - Tanzania Mainland",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Tanzania Mainland, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "TZ",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_TZ_TanzaniaMainland.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-tz-zanzibar",
+      "title": "World Malaria Report 2023 - Tanzania Zanzibar",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Tanzania Zanzibar, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "TZ",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_TZ_Zanzibar.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-ug",
+      "title": "World Malaria Report 2023 - Uganda",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Uganda, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "UG",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_UG_Uganda.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-za",
+      "title": "World Malaria Report 2023 - South Africa",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for South Africa, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "ZA",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_ZA_SouthAfrica.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-zm",
+      "title": "World Malaria Report 2023 - Zambia",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Zambia, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "ZM",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_ZM_Zambia.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "wmr2023-zw",
+      "title": "World Malaria Report 2023 - Zimbabwe",
+      "type": "source",
+      "notes": "Each year, WHO's World malaria report provides a comprehensive and up-to-date assessment of trends in malaria control and elimination across the globe. This year's report includes, for the first time, a dedicated chapter focused on the intersection between climate change and malaria. This data set are the final results for Zimbabwe, 2023.",
+      "owner_org": "who-afro-malaria",
+      "maintainer": "WHO AFRO UHC/UCN TVD Data Manager",
+      "maintainer_email": "tvd@afro.who.int",
+      "private": false,
+      "programme": "malaria",
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "ZW",
+      "resources": [
+        {
+          "filename": "WMR2023_SubNational_AFRO_ZW_Zimbabwe.xlsx",
+          "format": "XLSX",
+          "name": "WHO African Region Subnational Malaria Data"
+        }
+      ],
+      "language": "en_GB"
+    },
+    {
+      "name": "crucy2022-dz",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Algeria",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Algeria, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "DZ",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Algeria.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-ao",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Angola",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Angola, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "AO",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Angola.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-bf",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Burkina Faso",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Burkina Faso, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "BF",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Burkina_Faso.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-bi",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Burundi",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Burundi, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "BI",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Burundi.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-bj",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Benin",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Benin, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "BJ",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Benin.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-bw",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Botswana",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Botswana, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "BW",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Botswana.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-cd",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Democratic Republic of the Congo",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Democratic Republic of the Congo, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "CD",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.DR_Congo.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-ca",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Central African Republic",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Central African Republic, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "CF",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Central_African_Rep.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-cg",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Congo",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Congo, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "CG",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Congo.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-ci",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Cote d'Ivoire",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Cote d'Ivoire, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "CI",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Ivory_Coast.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-cm",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Cameroon",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Cameroon, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "CM",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Cameroon.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-cv",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Cabo Verde",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Cabo Verde, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "CV",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Cape_Verde_Isl.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-er",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Eritrea",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Eritrea, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "ER",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Eritrea.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-et",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Ethiopia",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Ethiopia, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "ET",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Ethiopia.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-ga",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Gabon",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Gabon, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "GA",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Gabon.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-gh",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Ghana",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Ghana, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "GH",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Ghana.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-gm",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Gambia",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Gambia, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "GM",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Gambia.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-gw",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Guinea-Bissau",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Guinea-Bissau, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "GW",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Guinea-Bissau.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-gn",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Guinea",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Guinea, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "GN",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Guinea.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-gq",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Equitorial Guinea",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Equitorial Guinea, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "GQ",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Equatorial_Guinea.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-ke",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Kenya",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Kenya, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "KE",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Kenya.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-km",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Comoros",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Comoros, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "KM",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Comoros.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-ls",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Lesotho",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Lesotho, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "LS",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Lesotho.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-lr",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Liberia",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Liberia, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "LR",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Liberia.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-mg",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Madagascar",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Madagascar, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "MG",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Madagascar.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-ml",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Mali",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Mali, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "ML",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Mali.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-mr",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Mauritania",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Mauritania, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "MR",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Mauritania.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-mu",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Mauritius",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Mauritius, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "MU",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Mauritius.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-mw",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Malawi",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Malawi, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "MW",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Malawi.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-mz",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Mozambique",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Mozambique, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "MZ",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Mozambique.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-na",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Namibia",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Namibia, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "NA",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Namibia.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-ne",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Niger",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Niger, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "NE",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Niger.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-ng",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Nigeria",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Nigeria, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "NG",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Nigeria.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-rw",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Rwanda",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Rwanda, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "RW",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Rwanda.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-sc",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Seychelles",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Seychelles, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "SC",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Seychelles.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-sl",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Sierra Leone",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Sierra Leone, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "SL",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Sierra_Leone.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-sn",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Senegal",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Senegal, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "SN",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Senegal.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-ss",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - South Sudan",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for South Sudan, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "SS",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.South_Sudan.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-st",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Sao Tome and Principe",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Sao Tome and Principe, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "ST",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Sao_Tome_+_Principe.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-sz",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Eswatini",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Eswatini, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "SZ",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Swaziland.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-td",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Chad",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Chad, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "TD",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Chad.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-tg",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Togo",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Togo, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "TG",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Togo.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-tz",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Tanzania",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Tanzania, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "TZ",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Tanzania.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-ug",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Uganda",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Uganda, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "UG",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Uganda.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-za",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - South Africa",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for South Africa, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "ZA",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.South_Africa.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-zm",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Zambia",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Zambia, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "ZM",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Zambia.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    },
+    {
+      "name": "crucy2022-zw",
+      "title": "Climate Research Unit gridded Time Series Precipitation Data CY 2022 - Zimbabwe",
+      "type": "source",
+      "notes": "CRU TS (Climatic Research Unit gridded Time Series) is a widely used climate dataset on a 0.5\u00b0 latitude by 0.5\u00b0 longitude grid over all land domains of the world except Antarctica. It is derived by the interpolation of monthly climate anomalies from extensive networks of weather station observations (Harris, I., Osborn, T.J., Jones, P. et al. Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Sci Data 7, 109 (2020). https://doi.org/10.1038/s41597-020-0453-3). This data set are the final results for Zimbabwe, 2023.",
+      "owner_org": "who-afro-dak",
+      "maintainer": "WHO AFRO ARD DAK Data Manager",
+      "maintainer_email": "dak@afro.who.int",
+      "private": false,
+      "year": "2023",
+      "groups": [
+        {
+          "name": "sources"
+        }
+      ],
+      "tags": [],
+      "country": "ZW",
+      "resources": [
+        {
+          "filename": "crucy.v4.07.1901.2022.Zimbabwe.csv",
+          "format": "CSV",
+          "name": "CRU TS Precipitation Data CY Data"
+        }
+      ],
+      "language": "en_GB",
+      "programme": "climate"
+    }
+  ]
+}
