@@ -1,0 +1,126 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[requires]
+python_version = "3.8"
+
+[packages]
+alembic = "==1.8.1"
+bleach = "==5.0.1"
+blinker = "==1.5"
+click = "==8.1.3"
+dominate = "==2.7.0"
+feedgen = "==0.9.0"
+flask-multistatic = "==1.0"
+packaging = "*"
+passlib = "==1.7.4"
+polib = "==1.1.1"
+psycopg2 = "==2.9.3"
+python-magic = "==0.4.27"
+pysolr = "==3.9.0"
+python-dateutil = "==2.8.2"
+pytz = "==2016.7"
+"repoze.who" = "==2.3"
+requests = "==2.28.1"
+rq = "==1.11.0"
+simplejson = "==3.17.6"
+sqlparse = "==0.4.2"
+tzlocal = "==4.2"
+webassets = "==2.0"
+Babel = "==2.10.3"
+Beaker = "==1.11.0"
+Flask = "==2.0.3"
+Flask-Babel = "==1.0.0"
+Flask-Login = "==0.6.1"
+Flask-WTF = "==1.0.1"
+Jinja2 = "==3.1.2"
+PyJWT = {version = "==2.4.0",extras = ["crypto"]}
+Markdown = "==3.4.1"
+PyUtilib = "==6.0.0"
+pyyaml = "==6.0"
+SQLAlchemy = {version = "==1.4.41", extras = ["mypy"]}
+Werkzeug = {version = "==2.0.3", extras = ["watchdog"]}
+uWSGI = "==2.0.19.1"
+certifi = "==2020.4.5.1"
+cffi = "==1.14.0"
+chardet = "==3.0.4"
+giftless-client = "==0.1.1"
+idna = "==2.9"
+pycparser = "==2.20"
+six = "==1.14.0"
+typing-extensions = "==4.3.0"
+typing = "==3.7.4.1"
+urllib3 = "==1.25.9"
+fanstatic = "==1.1"
+sqlalchemy-migrate = "==0.12.0"
+setuptools = "==67.2.0"
+unicodecsv = ">=0.9"
+Routes = "==1.13"
+PasteDeploy = "==2.0.1"
+watchdog = "==2.1.5"
+zope = {interface = "==5.4.0"}
+boto3 = "==1.28.56"
+pyparsing= "==3.1.2"
+rdflib = "<7.1.0,>=6.1.1"
+geomet = ">=0.2.0"
+future = ">=0.18.2"
+ckanext-pdfview = {editable = true, ref="e4df796ceb440954d3927bdebe22a25d65e28216", git = "https://github.com/ckan/ckanext-pdfview.git"}
+ckanext-officedocs = {editable = true, ref="664f87a69509662b51f98aff53daaa232b8751d4", git = "https://github.com/jqnatividad/ckanext-officedocs.git"}
+ckanext-sentry = {ref = "0.1.0", git = "https://github.com/fjelltopp/ckanext-sentry"}
+ckanext-authz-service = {editable = true, ref = "bd4c80f55a714c1117a0e130d07463e383c494c7", git = "https://github.com/datopian/ckanext-authz-service"}
+ckanext-blob-storage = {editable = true, ref = "5b2f59217e8f88a3f2cdb9dc50bf4099d9abe0de", git = "https://github.com/fjelltopp/ckanext-blob-storage"}
+ckanext-dcat = {editable = true, ref = "1ef40546ce8656cb2b7b8d5a23f26bf64523acfa", git = "git+https://github.com/ckan/ckanext-dcat.git"}
+ckanext-scheming = {editable = true, ref = "8d62a28370c4f231dbf2f9688ede93a0356410e3", git = "https://github.com/ckan/ckanext-scheming.git"}
+ckanext-geoview = {editable = true, ref = "832ad5e9ceb3ef812b6878a53d7dc92e5b71debe", git = "https://github.com/ckan/ckanext-geoview.git"}
+# Markupsafe and isdangerous downgraded because of dependencies issue
+markupsafe = "==2.0.1"
+itsdangerous = "==2.0.1"
+# Install packages under active development in editable mode
+ckan = {path = "./ckan", editable = true}
+ckanext-who-afro = {path = "./ckanext-who-afro", editable = true}
+
+# Google analytics and dependencies
+ckanext-googleanalytics = {editable = true, ref = "6769343bdb3ea519213092c0f752d9e47e8d3834", git = "https://github.com/fjelltopp/ckanext-googleanalytics4.git"}
+gdata = "~=2.0"
+google-api-python-client = ">=1.6.1, <1.7.0"
+pyOpenSSL = ">=16.2.0"
+rsa = ">=3.1.4, <=4.0"
+
+[dev-packages]
+beautifulsoup4 = "*"
+cookiecutter = "*"
+coveralls = "*"
+docutils = "*"
+Faker = "*"
+factory-boy = "*"
+freezegun = "*"
+ipdb = "*"
+responses = "*"
+pycodestyle = "*"
+pip-tools = "*"
+Pillow = "*"
+sphinx-rtd-theme = "*"
+pytest = "*"
+pytest-cov = "*"
+pytest-factoryboy = "*"
+pytest-freezegun = "*"
+pytest-rerunfailures = "*"
+pytest-split = "*"
+towncrier = "*"
+flask-debugtoolbar = "*"
+Sphinx = "*"
+ckanapi = "*"
+rarfile = "*"
+slugify = "*"
+sqlalchemy-stubs = "*"
+pydevd-pycharm = "*"
+twine = "*"
+mock = "*"
+pyfakefs = "*"
+pytest-ckan = "*"
+requests = "*"
+zxcvbn = "*"
+openpyxl = "*"
+python-dotenv = "*"
